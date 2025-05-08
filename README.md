@@ -77,7 +77,7 @@ O projeto foi estruturado em quatro etapas principais:
 ## 📁 Estrutura do Repositório
 
 - `notebook/`: Colab Notebook com o pipeline completo;
-- `data/`: Conjunto de dados utilizado no projeto
+- `/`: Conjunto de dados utilizado no projeto
 - `README.md`: Documentação e descrição do projeto.
 
 ## 📚 Referências
